@@ -1,0 +1,13 @@
+body{
+    background-image: url(https://images.hdqwalls.com/download/twilight-island-beach-sunset-1360x768.jpg);
+    background-size: cover;
+}
+
+h1{
+    background-color: paleturquoise;
+    margin-top: 10px;
+    text-align: center;
+    
+    font-family: cursive;
+
+}
